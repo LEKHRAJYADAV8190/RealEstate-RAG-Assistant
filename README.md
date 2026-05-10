@@ -155,13 +155,3 @@ python rag.py
 This runs the pipeline directly on two sample CNBC articles and prints the answer to the terminal.
 
 ---
-
-## 🙏 Credits
-
-Built by **Dhaval Patel** — [Codebasics Inc.](https://codebasics.io) & LearnerX Pvt Ltd.
-
----
-
-## 📄 License
-
-© Codebasics Inc. and LearnerX Pvt Ltd. All rights reserved.
